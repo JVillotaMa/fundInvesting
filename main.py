@@ -1,0 +1,3 @@
+import FundInvesting
+
+FundInvesting.FundInvesting()
